@@ -30,8 +30,8 @@
 ---
 
 ## 📬 Connect With Me
-- 💼 LinkedIn: [Your Link Here]  
-- 🐦 Twitter/X: [Your Link Here]  
+- 💼 LinkedIn: https://www.linkedin.com/in/rahul-araganji/  
+- 🐦 Twitter/X: https://x.com/RahulCA8206  
 
 ---
 
