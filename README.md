@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Rahul C Araganji 👋
 
-<!--
-**Rahul-Araganji/Rahul-Araganji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AI/ML Enthusiast | Data Science Learner | Student | Builder**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🎓 Second-year student passionate about **math, programming, and AI/ML**  
+- 🔭 Currently working on **Machine Learning projects** (like fruit quality classification)  
+- 💡 Interested in **AI for climate prediction, disaster preparedness, and data-driven solutions**  
+- 📚 Self-taught in many areas (Python, React, Data Science, etc.)  
+- 🌱 Interests include **ethical hacking**, **control systems**, and **data acquisition systems**  
+- 🎯 Goal: Land a **job in AI/ML and data science**  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript  
+- **Web Dev:** React, PHP, HTML/CSS  
+- **Data/ML:** scikit-learn, pandas, matplotlib  
+- **Other Interests:** Ethical Hacking, Control Systems, Data Acquisition Systems  
+
+---
+
+## 📈 Current Focus
+- Strengthening **math foundations for AI/ML**  
+- Exploring **real-world applications of ML in health & environment**  
+- Building a **portfolio to showcase AI/ML skills**  
+
+---
+
+## 📬 Connect With Me
+- 💼 LinkedIn: [Your Link Here]  
+- 🐦 Twitter/X: [Your Link Here]  
+
+---
+
+✨ *"I believe in learning by building — every project is a step closer to mastery."* ✨
+
